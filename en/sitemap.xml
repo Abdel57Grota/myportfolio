@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://github.com/Abdel57Grota.github.io/myblog/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://github.com/Abdel57Grota.github.io/myblog/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://github.com/Abdel57Grota.github.io/myblog/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://github.com/Abdel57Grota.github.io/myblog/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://github.com/Abdel57Grota.github.io/myblog/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://github.com/Abdel57Grota.github.io/myblog/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://github.com/Abdel57Grota.github.io/myblog/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://github.com/Abdel57Grota.github.io/myblog/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://github.com/Abdel57Grota.github.io/myblog/tags/"
+                />
+  </url>
+  
+</urlset>
